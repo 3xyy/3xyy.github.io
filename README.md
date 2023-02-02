@@ -1,3 +1,3 @@
 # 3xyy.github.io
-my `github.io` src
+my `3xyy.github.io` src
 this took way too long to make
